@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ensionvo.github.io/sitemap.html.gz
+Sitemap: https://ensionvo.github.io/app/sitemap.html.gz
+Sitemap: https://ensionvo.github.io/assets/sitemap.html.gz
+Sitemap: https://ensionvo.github.io/css/sitemap.html.gz
+Sitemap: https://ensionvo.github.io/includes/sitemap.html.gz
+Sitemap: https://ensionvo.github.io/item/sitemap.html.gz
+Sitemap: https://ensionvo.github.io/src/sitemap.html.gz
